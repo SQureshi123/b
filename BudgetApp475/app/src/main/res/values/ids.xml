@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="amount_textview" type="id" />
+    <item name="category_textview" type="id" />
+    <item name="date_textview" type="id" />
+    <item name="text_view_amount" type="id" />
+    <item name="text_view_category" type="id" />
+    <item name="text_view_date" type="id" />
+    <item name="amount_edit_text" type="id" />
+    <item name="category_edit_text" type="id" />
+    <item name="date_edit_text" type="id" />
+    <item name="balance_text_view" type="id" />
+</resources>
